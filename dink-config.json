@@ -91,7 +91,7 @@
   "chatWebhook": "https://discord.com/api/webhooks/1493378236694921267/2rwB5Ewii088fevwApJRJuvYN_Sng9nTX1pugR3fTqnXToEMyeW04DFhbMpN7wr_6prO",
   "gambleNotifMessage": "%USERNAME% has reached %COUNT% high gambles",
   "clueNotifMessage": "%USERNAME% has completed a %CLUE% clue, they have completed %COUNT%.\nThey obtained:\n\n%LOOT%",
-  "lootSourceDenylist": "Einar\n",
+  "lootSourceDenylist": "Loot Chest",
   "gambleRareLoot": true,
   "clueEnabled": false,
   "lootWebhook": "https://discord.com/api/webhooks/1469534226016763984/S_Wam06eRCMxdgVNsgW2A1M1ex0Q4ICShZDIsExhDyIy-ixA3YWllAJeW0hyFVubHuvv",
